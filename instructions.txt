@@ -1,0 +1,2 @@
+1st step - npm install 
+2nd - run the server -> npm run start:dev
